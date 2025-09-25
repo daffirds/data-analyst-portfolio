@@ -3,7 +3,7 @@
 This project presents an interactive dashboard analyzing Walmart sales data and its relationship with various economic indicators. The goal is to provide insights into how external economic factors influence sales performance.
 
 ### Demo
-https://github.com/user-attachments/assets/4bbc26a0-f70a-4301-9a46-b774d01feddc
+<video controls src="https://github.com/user-attachments/assets/4bbc26a0-f70a-4301-9a46-b774d01feddc" controls width="100%"></video>
 
 ### Data
 Source: `https://www.kaggle.com/datasets/yasserh/walmart-dataset`  
