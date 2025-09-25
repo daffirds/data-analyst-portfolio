@@ -6,7 +6,7 @@ This project presents an interactive dashboard analyzing Walmart sales data and 
 <video controls src="https://github.com/user-attachments/assets/4bbc26a0-f70a-4301-9a46-b774d01feddc" controls width="100%"></video>
 
 ### Data
-Source: `https://www.kaggle.com/datasets/yasserh/walmart-dataset`  
+Source: [`https://www.kaggle.com/datasets/yasserh/walmart-dataset`](https://www.kaggle.com/datasets/yasserh/walmart-dataset)  
 The dataset was downloaded from Kaggle and preprocessed for use in Power BI.
 
 ### Methodology
